@@ -1,40 +1,30 @@
 1PrintReceipt
 P:5mins
 D:10mins
-C:
-A:
+C:After a while, I wonder if I need to accept command line input. It took some time to do some clarification again
+A:The application of formal parameters needs a deeper understanding
 
 2.GetQuantity
 P:10mins
-D:mins
-C:
-A:
+D:15mins
+C:I am not familiar with the traversal of array and the calculation of array elements
+A:I need to learn some common methods of arrays
 
 3.GetItemInfoByBarcodes
 P:10mins
-D:
-C:
-A:
+D:15mins
+C:Re determine what the function needs to output here, and modify the context according to the requirements
+A:Need to be more detailed to determine what the needs are, to clarify the exercise needs
 
-4.CalculateItems
-P:10mins
-D:
-C:
-A:
-5.PrintItems
-P:10mins
-D
-C
-A
 
-6.CalculateSubtotalPrice
+4.PrintItems
 P:10mins
-D
-C
-A
+D:15mins
+C:Not familiar with string splicing format
+A:Practice string splicing
 
-7.CalculateTotalPrice
+5.CalculateTotalPrice
 P:10mins
-D
-C
-A
+D:5mins
+C:This is a simple function to get object data and calculate, so it takes less time
+A:We can shorten the time next time
