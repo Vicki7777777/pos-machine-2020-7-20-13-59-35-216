@@ -23,13 +23,13 @@ D:15mins
 C:Not familiar with string splicing format
 A:Practice string splicing
 
-5.CalculateSubtotal
+5.calculateSubtotal
 P:10mins
 D:7mins
 C:This is a simple function to get object data and calculate, so it takes less time
 A:We can shorten the time next time
 
-6.CalculateTotal
+6.calculateTotal
 P:10mins
 D:5mins
 C:This method is somewhat similar to the above method implementation, so it takes less time
